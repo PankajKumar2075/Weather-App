@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+  min-height: 100vh;
+}
+
+.weather-card {
+  background-color: #ffffffcc;
+  border-radius: 15px;
+}
+
+#temperature {
+  font-size: 3rem;
+  font-weight: bold;
+}

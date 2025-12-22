@@ -19,11 +19,6 @@ A simple weather application built using HTML, CSS, and JavaScript.  It fetches 
 2. Click the Search button
 3. View the current weather details
 
-## Setup
-1. Clone or download the repository
-2. Open `index.html` in your browser
-3. Add your OpenWeatherMap API key in `script.js`
-
 ## Author
 Pankaj Kumar
 
